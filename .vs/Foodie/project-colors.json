@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1d5e015-bca7-420f-92d4-e3c22163de41": {
+      "ProjectGuid": "e1d5e015-bca7-420f-92d4-e3c22163de41",
+      "DisplayName": "Foodie",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
